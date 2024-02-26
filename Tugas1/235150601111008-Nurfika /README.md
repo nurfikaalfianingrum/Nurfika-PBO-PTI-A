@@ -9,4 +9,4 @@ Fitur yang ditiru : Menebak angka
 
 
 🔗 Link Penjelasan Tugas
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/8YzKDxNR7wA
