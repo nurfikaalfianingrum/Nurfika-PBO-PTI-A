@@ -1,0 +1,3 @@
+interface PesertaKelas {
+    void masukkelas();
+}
